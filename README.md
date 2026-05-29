@@ -3,7 +3,7 @@
     <a href="https://discord.gg/wufDTjw9"><img src="https://img.shields.io/discord/511303648119226382?color=%236d82cc&label=Discord&logo=discord&logoColor=white" /></a>&nbsp;
     <a href="https://github.com/TitansBirth/Titan"><img src="https://img.shields.io/github/stars/TitansBirth/Titan?style=social" alt="stars - TITAN" /></a>&nbsp;
     <a href=""><img src="https://img.shields.io/badge/built_with-Rust-dca282.svg?logo=rust" /></a>&nbsp;
-    <a href="https://x.com/@TitanIsBorn"><img src="https://img.shields.io/twitter/follow/TitanIsBorn"></a>
+    <a href="https://x.com/@YoheiNishitsuji"><img src="https://img.shields.io/twitter/follow/YoheiNishitsuji"></a>
 </p>
 
 ✨ If you would like to help spread the word about Titan, please consider starring the repo!
